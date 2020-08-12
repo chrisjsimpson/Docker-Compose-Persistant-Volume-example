@@ -1,0 +1,8 @@
+version: '3'
+services:
+  redis:
+    image: "redis:6.0.6"
+    volumes:
+      - my_volume:/tmp/my_data
+volumes:
+  my_volume: {}
