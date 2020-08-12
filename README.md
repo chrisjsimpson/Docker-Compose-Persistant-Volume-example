@@ -23,7 +23,8 @@ commend to tell it to persist data.
 docker-compose up
 ```
 
-Video: 
+Video (basic volumes): https://youtu.be/nIKJf2BXna4
+Video (redis persist data) :
 
 Connect with redis, from outside the container:
 
