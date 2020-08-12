@@ -1,5 +1,15 @@
 # Docker Compose Persistant Volume example
 
+## Tutorial
+
+Basic:
+
+`git checkout 1-basic`
+
+Persist redis data:
+
+`git checkout 2-persist-redis-example`
+
 Shows the definition, and creation of a persitant volume 
 between container starts, stops and removal. Any data written to the volume 
 persists.
